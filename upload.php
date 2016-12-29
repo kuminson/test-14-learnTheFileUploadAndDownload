@@ -1,5 +1,5 @@
 <?php
-// header("content-type:html/text; charset=UTF-8");
+header("content-type:text/html; charset=utf-8");
 echo "<pre>";
 print_r($_FILES);
 
